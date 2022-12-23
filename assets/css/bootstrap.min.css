@@ -757,6 +757,7 @@ body { padding: 50px;}
     padding: 0 0 0 395px;
     width: 962px;
     box-sizing: border-box;
+    margin: 0 auto;
 }
 
 .product_view .img {
@@ -1601,7 +1602,7 @@ body { padding: 50px;}
 
     .col-lg-5 {
         flex: 0 0 auto;
-        width: 41.6666666667%
+        width: 60%;
     }
 
     .col-lg-6 {
@@ -1615,8 +1616,9 @@ body { padding: 50px;}
     }
 
     .col-lg-8 {
-        flex: 0 0 auto;
-        width: 66.6666666667%
+        flex: auto;
+        width: 80%;
+        background: center;
     }
 
     .col-lg-9 {
