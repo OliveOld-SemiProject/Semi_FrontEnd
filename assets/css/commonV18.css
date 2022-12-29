@@ -111,7 +111,7 @@ textarea {
     bottom: 0;
     width: 100%;
     height: 100%;
-    background-image: url(//fiximage.10x10.co.kr/web2015/main/bnr_over.png);
+    background-image: url();
     background-position: 50% 50%;
     background-repeat: repeat;
     cursor: pointer;
@@ -166,7 +166,7 @@ textarea {
 }
 
 .paging a.arrow span {
-    background-image: url(//fiximage.10x10.co.kr/web2015/common/paging_arrow.gif);
+    background-image: url();
     background-repeat: no-repeat;
     text-indent: -9999px;
     width: 23px;
@@ -262,7 +262,7 @@ textarea {
     margin: 0;
     padding: 0;
     line-height: 9px;
-    background: url(//fiximage.10x10.co.kr/web2013/common/btn_num_up.png) 0 0 no-repeat;
+    background: url() 0 0 no-repeat;
 }
 
 .spinner .buttons .down {
@@ -274,7 +274,7 @@ textarea {
     margin: 0;
     padding: 0;
     line-height: 9px;
-    background: url(//fiximage.10x10.co.kr/web2013/common/btn_num_down.png) 0 0 no-repeat;
+    background: url() 0 0 no-repeat;
 }
 
 
@@ -308,12 +308,12 @@ textarea {
 
 .whiteArr03 {
     padding-right: 6px;
-    background: url(//fiximage.10x10.co.kr/web2015/common/blt09.gif) 100% 4px no-repeat;
+    background: url() 100% 4px no-repeat;
 }
 
 .download {
     padding-right: 15px;
-    background: url(//fiximage.10x10.co.kr/web2015/shopping/ico_down.gif) 100% 0 no-repeat;
+    background: url() 100% 0 no-repeat;
 }
 
 /* icon */
@@ -337,7 +337,7 @@ textarea {
     min-height: 17px;
     padding-left: 22px;
     line-height: 16px;
-    background: url(//fiximage.10x10.co.kr/web2017/common/ico_info.png) 0 0 no-repeat;
+    background: url() 0 0 no-repeat;
 }
 
 
@@ -394,7 +394,7 @@ strong.memSTAFF {
     overflow: hidden;
     float: left;
     text-indent: -999em;
-    background: url(//fiximage.10x10.co.kr/web2015/layout/element.png) no-repeat;
+    background: url() no-repeat;
 }
 
 
@@ -664,7 +664,7 @@ strong.memSTAFF {
 
 .almTodayV15 {
     padding: 15px 0;
-    background: url(//fiximage.10x10.co.kr/web2015/common/dotline01.gif) 0 100% repeat-x;
+    background: url() 0 100% repeat-x;
 }
 
 .almTodayV15 .boxRd0V15 {
@@ -677,7 +677,7 @@ strong.memSTAFF {
     font-size: 12px;
     line-height: 22px;
     vertical-align: middle;
-    background: url(//fiximage.10x10.co.kr/web2015/common/box_round00.png) 50% 50% no-repeat;
+    background: url() 50% 50% no-repeat;
 }
 
 .alarmListV15 ul.alarmUnitV15 {
@@ -690,7 +690,7 @@ strong.memSTAFF {
     float: none;
     padding: 12px 8px 13px 85px;
     vertical-align: middle;
-    background: url(//fiximage.10x10.co.kr/web2015/common/dotline01.gif) 0 100% repeat-x;
+    background: url() 0 100% repeat-x;
 }
 
 .alarmUnitV15 li a {
@@ -709,7 +709,7 @@ strong.memSTAFF {
     margin-top: -32px;
     width: 66px;
     height: 66px;
-    background-image: url(//fiximage.10x10.co.kr/web2015/common/ico_alarm.png);
+    background-image: url();
     background-repeat: no-repeat;
 }
 
@@ -879,7 +879,7 @@ li.winPartV15 span.alarmIcoV15 {
     width: 18px;
     height: 16px;
     text-indent: -999em;
-    background: url(//fiximage.10x10.co.kr/web2015/layout/element.png) no-repeat 0 -35px;
+    background: url() no-repeat 0 -35px;
 }
 
 .uCartV15 dfn {
@@ -940,7 +940,7 @@ li.winPartV15 span.alarmIcoV15 {
     width: 11px;
     height: 11px;
     padding: 0;
-    background: url(//fiximage.10x10.co.kr/web2015/layout/element.png) no-repeat -4px -104px;
+    background: url() no-repeat -4px -104px;
     text-indent: -999em;
     cursor: pointer;
 }
@@ -1009,13 +1009,13 @@ li.winPartV15 span.alarmIcoV15 {
     text-indent: -999em;
 }
 
-.arrow-top {
+/* .arrow-top {
     background-image: url(//fiximage.10x10.co.kr/web2018/common/arrow_top.png);
 }
 
 .arrow-bottom {
     background-image: url(//fiximage.10x10.co.kr/web2018/common/arrow_bottom.png?v=1.31);
-}
+} */
 
 .arrow-bottom.bottom1 {
     width: 6px;
@@ -1043,9 +1043,9 @@ li.winPartV15 span.alarmIcoV15 {
     background-position: -34px 0;
 }
 
-.arrow-right {
+/* .arrow-right {
     background-image: url(//fiximage.10x10.co.kr/web2018/common/arrow_right.png?v=1.01);
-}
+} */
 
 .arrow-right.right1 {
     width: 16px;
@@ -1055,9 +1055,9 @@ li.winPartV15 span.alarmIcoV15 {
     background-position: 0 -12px;
 }
 
-.icoV18 {
+/* .icoV18 {
     background-image: url(//assets/images/search.svg);
-}
+} */
 
 .ico-hot {
     top: -4px;
@@ -1227,12 +1227,12 @@ li.winPartV15 span.alarmIcoV15 {
     text-indent: 0;
 }
 
-.star-point .icoV18 i {
+/* .star-point .icoV18 i {
     display: inline-block;
     height: 10px;
     background: #fff url(//fiximage.10x10.co.kr/web2018/common/sp_icon.png?v=1.15) -110px -192px no-repeat;
     vertical-align: top;
-}
+} */
 
 .star-point.star1 .icoV18 i {
     width: 12px;
@@ -1254,14 +1254,14 @@ li.winPartV15 span.alarmIcoV15 {
     font-size: 12px;
 }
 
-.btn-linkV18 span {
+/* .btn-linkV18 span {
     position: relative;
     top: -2px;
     display: inline-block;
     width: 4px;
     height: 6px;
     background: url(//fiximage.10x10.co.kr/web2018/common/arrow_right.png?v=1.1) 0 0 no-repeat;
-}
+} */
 
 .btn-linkV18:hover {
     text-decoration: underline;
@@ -1741,7 +1741,7 @@ p.t-low span {
     border-bottom: 1px solid #eee;
 }
 
-.headerV18 h1 {
+/* .headerV18 h1 {
     position: absolute;
     left: 0;
     top: 30px;
@@ -1750,7 +1750,7 @@ p.t-low span {
     height: 28px;
     text-indent: -999em;
     background: url(//fiximage.10x10.co.kr/web2019/common/logo_bk.png?v=1.02) 0 0 no-repeat;
-}
+} */
 
 .headerV18 h1 a {
     display: block;
@@ -2296,13 +2296,13 @@ p.t-low span {
     border-radius: 4px;
 }
 
-.icon_search {
+/* .icon_search {
     display: inline-block;
     background: url(/assets/images/search.png);
     background-size: contain;
     width: 20px;
     height: 20px;
-}
+} */
 
 .head-service:after {
     visibility: hidden;
@@ -2652,7 +2652,7 @@ p.t-low span {
     padding-right: 11px;
 }
 
-.dept-unit-top .list-depth li a:hover b:after {
+/* .dept-unit-top .list-depth li a:hover b:after {
     content: '';
     display: inline-block;
     position: absolute;
@@ -2662,7 +2662,7 @@ p.t-low span {
     height: 6px;
     margin-top: -3px;
     background: url(//fiximage.10x10.co.kr/web2018/common/arrow_right.png) 0 0 no-repeat;
-}
+} */
 
 .dept-unit-top .list-depth li a.color-red:hover,
 .dept-unit-top .list-depth li a.color-blue:hover {
@@ -2743,14 +2743,14 @@ div.schExample ul li {
 .headerTopNew .inner .linkSide span.ten img {
     vertical-align: unset;
 }
-
+/* 
 .headerTopNew .inner .linkSide span.arrow {
     display: inline-block;
     width: 12px;
     height: 12px;
     background: url(//fiximage.10x10.co.kr/web2021/biz/icon_biz_banner_right.png) 0 0 no-repeat;
     background-size: 12px 12px;
-}
+} */
 
 .headerTopNew .head-util {
     width: inherit;
@@ -2856,7 +2856,7 @@ div.schExample ul li {
     height: 0;
     content: '';
 }
-
+/* 
 .footerV18 .logo {
     position: absolute;
     left: 0;
@@ -2865,7 +2865,7 @@ div.schExample ul li {
     height: 27px;
     background: url(//fiximage.10x10.co.kr/web2020/common/logo_tenbyten.png) 0 0 no-repeat;
     text-indent: -999em;
-}
+} */
 
 .footerV18 .foot-cont {
     float: left;
@@ -2916,7 +2916,7 @@ div.schExample ul li {
     font-weight: 700;
     line-height: normal;
 }
-
+/* 
 .foot-cscenter .tit::after {
     content: "";
     display: inline-block;
@@ -2925,7 +2925,7 @@ div.schExample ul li {
     margin-left: 2px;
     background: url(http://fiximage.10x10.co.kr/web2021/cscenter/icon_arr_right.png) no-repeat 0 2px;
     background-size: 100%;
-}
+} */
 
 .foot-cscenter .open-time {
     padding-bottom: 4px;
@@ -3082,7 +3082,7 @@ div.schExample ul li {
     font-weight: bold;
 }
 
-.pagingV18 .arrow {
+/* .pagingV18 .arrow {
     position: relative;
     top: 1px;
     display: inline-block;
@@ -3090,7 +3090,7 @@ div.schExample ul li {
     height: 12px;
     margin: 0 8px;
     background: url(//fiximage.10x10.co.kr/web2018/common/sp_icon.png?v=1.14) -161px -251px no-repeat;
-}
+} */
 
 .pagingV18 .arrow.prev {
     margin: 0 8px 0 5px;
@@ -3466,12 +3466,12 @@ div.schExample ul li {
     right: 0;
 }
 
-.tenBiz.anniv18 .headerV18 h1 {
+/* .tenBiz.anniv18 .headerV18 h1 {
     position: static;
     width: 202px;
     height: 40px;
     background: url(//fiximage.10x10.co.kr/web2021/biz/logo.png) no-repeat 0 0 /100% auto;
-}
+} */
 
 .tenBiz .gnbListSlide {
     position: relative;
@@ -3481,22 +3481,22 @@ div.schExample ul li {
     overflow: hidden;
 }
 
-.tenBiz .gnbListSlide .slick-prev {
+/* .tenBiz .gnbListSlide .slick-prev {
     left: 0;
     width: 40px;
     height: 88px;
     margin-top: 2px;
     background: url(//fiximage.10x10.co.kr/web2021/biz/bg_btnSlide.png) 0 0 no-repeat;
-}
+} */
 
-.tenBiz .gnbListSlide .slick-next {
+/* .tenBiz .gnbListSlide .slick-next {
     right: 0;
     width: 40px;
     height: 88px;
     margin-top: 2px;
     background: url(//fiximage.10x10.co.kr/web2021/biz/bg_btnSlide02.png) 0 0 no-repeat;
-}
-
+} */
+/* 
 .tenBiz .gnbListSlide .slick-prev::before {
     content: "";
     position: absolute;
@@ -3507,9 +3507,9 @@ div.schExample ul li {
     height: 88px;
     background: url(//fiximage.10x10.co.kr/web2021/biz/icon_biz_banner_left.png) left center no-repeat;
     z-index: 10;
-}
+} */
 
-.tenBiz .gnbListSlide .slick-next::before {
+/* .tenBiz .gnbListSlide .slick-next::before {
     content: "";
     position: absolute;
     right: 0;
@@ -3519,7 +3519,7 @@ div.schExample ul li {
     height: 88px;
     background: url(//fiximage.10x10.co.kr/web2021/biz/icon_biz_banner_right.png) right center no-repeat;
     z-index: 10;
-}
+} */
 
 /* banner */
 .tenBiz .main-banner {
@@ -3572,19 +3572,19 @@ div.schExample ul li {
     transform: translate(-50%, 0);
 }
 
-.tenBiz.mainV18 .main-banner .slidesjs-previous {
+/* .tenBiz.mainV18 .main-banner .slidesjs-previous {
     left: 50%;
     transform: translate(-275%, 0);
     bottom: 46px;
     background: url(//fiximage.10x10.co.kr/web2021/biz/icon_biz_banner_left.png) 0 0 no-repeat;
-}
+} */
 
-.tenBiz.mainV18 .main-banner .slidesjs-next {
+/* .tenBiz.mainV18 .main-banner .slidesjs-next {
     right: 50%;
     transform: translate(275%, 0);
     bottom: 47px;
     background: url(//fiximage.10x10.co.kr/web2021/biz/icon_biz_banner_right.png) 0 0 no-repeat;
-}
+} */
 
 .tenBiz .main-banner .slidesjs-num {
     position: absolute;
@@ -3686,13 +3686,13 @@ div.schExample ul li {
     height: 250px;
 }
 
-.tenBiz .pdtActionV15 li.postView {
+/* .tenBiz .pdtActionV15 li.postView {
     background: url(http://fiximage.10x10.co.kr/web2015/common/ico_review.png) 0 50% no-repeat !important;
-}
-
+} */
+/* 
 .tenBiz .pdtActionV15 li.wishView {
     background: url(http://fiximage.10x10.co.kr/web2015/common/ico_wish.png) 0 50% no-repeat !important;
-}
+} */
 
 .tenBiz .h-tit {
     width: 1140px;
@@ -3792,7 +3792,7 @@ div.schExample ul li {
     line-height: 29px;
     color: #fff;
     opacity: 1;
-    background: url(//fiximage.10x10.co.kr/web2021/biz/bg_buble.png) no-repeat;
+    background: url() no-repeat;
     background-size: 100%;
 }
 

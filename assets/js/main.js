@@ -6,14 +6,14 @@ Author: GrayGrids
 (function () {
     //===== Prealoder
 
-    window.onload = function () {
-        window.setTimeout(fadeout, 500);
-    }
+    // window.onload = function () {
+    //     window.setTimeout(fadeout, 500);
+    // }
 
-    function fadeout() {
-        document.querySelector('.preloader').style.opacity = '0';
-        document.querySelector('.preloader').style.display = 'none';
-    }
+    // function fadeout() {
+    //     document.querySelector('.preloader').style.opacity = '0';
+    //     document.querySelector('.preloader').style.display = 'none';
+    // }
 
 
     /*=====================================
@@ -33,10 +33,10 @@ Author: GrayGrids
     };
 
     //===== mobile-menu-btn
-    let navbarToggler = document.querySelector(".mobile-menu-btn");
-    navbarToggler.addEventListener('click', function () {
-        navbarToggler.classList.toggle("active");
-    });
+    // let navbarToggler = document.querySelector(".mobile-menu-btn");
+    // navbarToggler.addEventListener('click', function () {
+    //     navbarToggler.classList.toggle("active");
+    // });
 
 
 })();
