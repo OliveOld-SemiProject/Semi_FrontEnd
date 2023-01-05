@@ -2475,10 +2475,10 @@ p.t-low span {
 }
 
 /* 2021.12.15 손지수 cs 해결 */
-.gnbV18>ul li:hover p,
+/* .gnbV18>ul li:hover p,
 .gnbV18>ul li.on p {
     color: #ff3131;
-}
+} */
 
 .gnbV18>ul li:nth-child(15) p {
     font-size: 13px;
